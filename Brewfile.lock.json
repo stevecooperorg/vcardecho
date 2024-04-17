@@ -1,0 +1,27 @@
+{
+  "entries": {
+    "tap": {
+      "azure/functions": {
+        "revision": "e278d75421953cb11e8183f4e72e16a73dd686eb"
+      }
+    },
+    "brew": {
+      "azure-functions-core-tools@4": {
+        "version": "4.0.4653",
+        "bottle": false
+      }
+    }
+  },
+  "system": {
+    "macos": {
+      "big_sur": {
+        "HOMEBREW_VERSION": "3.5.6",
+        "HOMEBREW_PREFIX": "/usr/local",
+        "Homebrew/homebrew-core": "60521354685a92b2049278f9248425e23b2b19b7",
+        "CLT": "13.2.0.0.1.1638488800",
+        "Xcode": "13.1",
+        "macOS": "11.6.7"
+      }
+    }
+  }
+}
